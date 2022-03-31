@@ -130,7 +130,9 @@ body {
     color: #70c1b3;
     /* background-color: blanchedalmond; */
 }
-
+.two-sided-section{
+    margin: 10px;
+}
 .widget .extra-temp .extra-info-leftside {
     text-align: left;
     font-weight: 600;
